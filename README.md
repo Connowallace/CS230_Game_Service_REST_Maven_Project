@@ -10,4 +10,4 @@ All code for this project was written by me based on a framework provided by the
 
 Project 2:
 
-Given 
+Given a non-functioning Maven project, update it to allow users of different access levels to log in and view information available to their account type.
